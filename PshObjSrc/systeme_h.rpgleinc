@@ -1,0 +1,10 @@
+**FREE
+
+Dcl-ds Systeme qualified template;
+    name Varchar(32);
+    iPAddressV4 Varchar(15);
+end-ds;
+
+Dcl-pr ftp;
+    name Varchar(32);
+end-pr;
